@@ -20,8 +20,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Gahlawat-9/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Gahlawat-9/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Gahlawat-9/LeetCode/tree/master/0058-length-of-last-word) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Gahlawat-9/LeetCode/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Gahlawat-9/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
