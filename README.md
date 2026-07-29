@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gahlawat-9/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Gahlawat-9/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Gahlawat-9/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Gahlawat-9/LeetCode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gahlawat-9/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Gahlawat-9/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Gahlawat-9/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Gahlawat-9/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Gahlawat-9/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
