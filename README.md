@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Gahlawat-9/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Gahlawat-9/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Gahlawat-9/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Gahlawat-9/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Gahlawat-9/LeetCode/tree/master/0704-binary-search) |
