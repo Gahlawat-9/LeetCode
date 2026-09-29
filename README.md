@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gahlawat-9/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Gahlawat-9/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gahlawat-9/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Gahlawat-9/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Gahlawat-9/LeetCode/tree/master/0053-maximum-subarray) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gahlawat-9/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Gahlawat-9/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Gahlawat-9/LeetCode/tree/master/0125-valid-palindrome) |
 ## Hash Table
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gahlawat-9/LeetCode/tree/master/0056-merge-intervals) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gahlawat-9/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
