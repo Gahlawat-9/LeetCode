@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Gahlawat-9/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gahlawat-9/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Gahlawat-9/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Gahlawat-9/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Gahlawat-9/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Gahlawat-9/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -94,9 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Gahlawat-9/LeetCode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Gahlawat-9/LeetCode/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gahlawat-9/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Gahlawat-9/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
