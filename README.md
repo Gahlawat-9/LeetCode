@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gahlawat-9/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Gahlawat-9/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Gahlawat-9/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Gahlawat-9/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Gahlawat-9/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Gahlawat-9/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Gahlawat-9/LeetCode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/Gahlawat-9/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Gahlawat-9/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
