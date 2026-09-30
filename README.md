@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Gahlawat-9/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Gahlawat-9/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Gahlawat-9/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Gahlawat-9/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Gahlawat-9/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Gahlawat-9/LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Gahlawat-9/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
